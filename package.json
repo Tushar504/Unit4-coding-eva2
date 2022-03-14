@@ -1,0 +1,24 @@
+{
+  "name": "unit4-coding-eva2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodemon src/server.js",
+  "scripts": {
+   "server":"nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tushar504/Unit4-coding-eva2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tushar504/Unit4-coding-eva2/issues"
+  },
+  "homepage": "https://github.com/Tushar504/Unit4-coding-eva2#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6"
+  }
+}
